@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋, I am Kaunain
+ 
+*I am a Full Stack Web Developer at MMI Online in New Delhi*
 
-<!--
-**kaunain/kaunain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I have Used Below Stack**
 
-Here are some ideas to get you started:
+## Client Software (Front End)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- jQuery
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Server Software (Back End)
+- Java
+- Python
+- Node.js
+- GO
+
+## Database
+- MySql
+- PostgreSql
+- Oracle
+
+## Cloud Platform
+- Google Cloud
+- DigitalOcean
+
+## About
+- 🔭 I’m currently working on MMI Online
+- 🌱 I’m currently learning: Go, Hugo
+- 👯 I’m looking to collaborate on Opensource Project
+- 📫 Reach me: kau9.ahmad@gmail.com
+- 😄 Pronouns: KAUNAIN
