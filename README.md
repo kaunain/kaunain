@@ -80,14 +80,12 @@ A smart automation utility designed to analyze, filter, and clean up bloated inb
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaunain&show_icons=true&count_private=true&theme=radical&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunain&layout=compact&theme=radical&cache_seconds=86400"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaunain" alt="Kaunain's GitHub Activity Graph"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=kaunain" alt="Kaunain's GitHub Streak"/>
 </p>
 
 ---
