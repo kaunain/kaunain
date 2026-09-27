@@ -7,7 +7,7 @@ Senior Full Stack Engineer | Java • Spring Boot • Angular • React • Next
 
 I'm a **Senior Full Stack Engineer** with **15+ years of experience** specializing in building and maintaining mission-critical enterprise applications. 
 
-My core expertise lies in **Java, Spring Boot, Microservices, and REST APIs**, with deep domain knowledge in the **Healthcare Insurance** sector (Vitech/Majesco platform).
+My core expertise lies in **Java, Spring Boot, Microservices, and REST APIs**, with deep domain knowledge in the **Healthcare Insurance** sector.
 
 I have extensive hands-on experience in production support, including debugging, performance tuning (`OutOfMemoryError` analysis, SQL optimization), and ensuring system stability. 
 
